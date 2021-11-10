@@ -6,12 +6,11 @@
 หมู่ : 200
 
 รายละเอียดไฟล์
-PDF File : ML-slide-project-6010451094.pdf
-HTML File : index.html
-Configuration File : jupyter_kernel_gateway_config.py
-Dataset : kc_house_data.csv (ชุดข้อมูลราคาบ้าน), zipcode.csv (ชุดข้อมูลเลขไปรษณีย์เขต King County ในรัฐ Washington)
-Model : price_regression.ipynb (ก่อนนำเสนอ)
-        price_regression2.ipynb (แก้หลังนำเสนอ)
+1. PDF File : ML-slide-project-6010451094.pdf
+2. HTML File : index.html
+3. Configuration File : jupyter_kernel_gateway_config.py
+4. Dataset : kc_house_data.csv (ชุดข้อมูลราคาบ้าน), zipcode.csv (ชุดข้อมูลเลขไปรษณีย์เขต King County ในรัฐ Washington)
+5. Model : price_regression.ipynb (ก่อนนำเสนอ), price_regression2.ipynb (แก้หลังนำเสนอ)
 
 ไฟล์ที่ได้แก้ไรเพิ่มเติมอยู่ที่ไฟล์ price_regression2.ipynb โดยมีรายละเอียดการเพิ่มดังนี้
   1. เพิ่มตัวเลือกการใช้ข้อมูลในการทำนาย ที่เป็นบ้านที่ต้องการใกล้ริมน้ำ (Waterfront) หรือไม่
