@@ -1,4 +1,9 @@
 # ML-Project-6010451094
+ชื่อ : นายธนดล  สระแก้ว
+รหัสนิสิต : 6010451094
+หมู่ : 200
+
+รายละเอียดไฟล์
 PDF File : ML-slide-project-6010451094.pdf
 HTML File : index.html
 Configuration File : jupyter_kernel_gateway_config.py
@@ -11,4 +16,4 @@ Model : price_regression.ipynb (ก่อนนำเสนอ)
   2. Model ใหม่ (price_regression2.ipynb) เพิ่มการทำนายแบบใหม่คือ Polynomial Regression โดยค่า Accuary มีความแม่นยำเพิ่มขึ้น
 
 คำแนะนำ
-  เนื่องจากได้แก้ปัญหาใช้การทดสอบแบบ Polynomial Regression ทำให้ผลลัพธ์ในการ Predict มีความแม่นยำเพิ่มขึ้น แต่ปัญหาที่เกิดขึ้นคือไม่สามารถนำโมเดลนี้ไปแสดงบน HTML ได้ จึงจำเป็นต้องใช้การทำนายแบบ Linear Regression แบบเดิม
+  เนื่องจากได้แก้ปัญหาใช้การทดสอบแบบ Polynomial Regression ทำให้ผลลัพธ์ในการ Predict มีความแม่นยำเพิ่มขึ้น และทำเป็นโมเดลใหม่ขึ้นมา แต่ปัญหาที่เกิดขึ้นคือไม่สามารถนำโมเดลนี้ไปแสดงบน HTML ได้ จึงจำเป็นต้องใช้การทำนายแบบ Linear Regression แบบเดิมก่อน
